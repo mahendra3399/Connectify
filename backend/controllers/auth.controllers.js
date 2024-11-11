@@ -20,7 +20,6 @@ export const signup = (req,res) => {
         const girlProfilePic = `https://avatar.iran.liara.run/public/girl?username=${username}`
 
         
-
     } catch (error) {
         
     }

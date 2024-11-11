@@ -1,0 +1,24 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+
+# Dependency directories
+jspm_packages/
+typings/
+
+# Build directories
+build/
+dist/
+
+# Miscellaneous
+.DS_Store
+.env
+.idea
+.vscode
